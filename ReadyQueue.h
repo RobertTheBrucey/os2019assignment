@@ -1,6 +1,6 @@
 /*****************************************************************************
 * File:      ReadyQueue.h
-* Author:    Sean Ashton * Student ID: 14866636
+* Author:    Sean Ashton * Student ID: 
 * Unit:      COMP2006 Operating Systems
 * Purpose:   Header file for ReadyQueue.c
 * Reference: None.

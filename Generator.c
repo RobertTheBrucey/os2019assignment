@@ -1,6 +1,6 @@
 /*****************************************************************************
 * File:      Generator.c
-* Author:    Sean Ashton * Student ID: 14866636
+* Author:    Sean Ashton * Student ID: 
 * Unit:      COMP2006 Operating Systems
 * Purpose:   Generate a task list for use with the scheduler simulation
 * Reference: None.

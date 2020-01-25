@@ -1,6 +1,6 @@
 /*****************************************************************************
 * File:      ReadyQueue.c
-* Author:    Sean Ashton * Student ID: 14866636
+* Author:    Sean Ashton * Student ID: 
 * Unit:      COMP2006 Operating Systems
 * Purpose:   A Queue of Tasks for scheduler simulation
 * Reference: Sean Ashton UCP Assignment was used as a basis for this file

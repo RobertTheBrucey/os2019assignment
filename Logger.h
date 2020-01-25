@@ -1,6 +1,6 @@
 /*****************************************************************************
 * File:      Logger.h
-* Author:    Sean Ashton * Student ID: 14866636
+* Author:    Sean Ashton * Student ID: 
 * Unit:      COMP2006 Operating Systems
 * Purpose:   Log to file with mutual exclusion
 * Reference: None.
