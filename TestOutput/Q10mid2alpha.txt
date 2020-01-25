@@ -1,0 +1,32 @@
+Simulation starting.
+Statistics for TASK:
+Task 1; Burst 3
+Arrival time: 17:14:39
+Invalid line in input file
+Statistics for CPU-1:
+Task 1
+Arrival time: 17:14:39
+Service time: 17:14:39
+Statistics for TASK:
+Task 3; Burst 5
+Arrival time: 17:14:39
+Statistics for CPU-2:
+Task 3
+Arrival time: 17:14:39
+Service time: 17:14:39
+Number of tasks put into the Ready-Queue: 2
+Terminate at time 17:14:39
+CPU-3 terminates after servicing 0 tasks
+Statistics for CPU-1:
+Task 1
+Arrival time: 17:14:39
+Completion time: 17:14:42
+CPU-1 terminates after servicing 1 tasks
+Statistics for CPU-2:
+Task 3
+Arrival time: 17:14:39
+Completion time: 17:14:44
+CPU-2 terminates after servicing 1 tasks
+Number of tasks: 2
+Average waiting time: 0 seconds
+Average turn around time: 4 seconds

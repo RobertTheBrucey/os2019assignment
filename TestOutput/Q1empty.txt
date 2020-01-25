@@ -1,0 +1,7 @@
+Simulation starting.
+Number of tasks put into the Ready-Queue: 0
+Terminate at time 17:14:14
+CPU-3 terminates after servicing 0 tasks
+CPU-1 terminates after servicing 0 tasks
+CPU-2 terminates after servicing 0 tasks
+No tasks were read, statistics unavailable
